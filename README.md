@@ -30,12 +30,8 @@ A Pretty Javascript Clock.
 > * UPI : iammehrose@okhdfcbank
 
 ### Screenshot:
+![Clock](https://user-images.githubusercontent.com/55852754/131208551-c4fac36d-197d-4e27-bca4-6bd9e5e90f05.png)
 
-<hr>
-
-
-
-![Simple Calendar](https://user-images.githubusercontent.com/55852754/131208404-affc8485-b1b2-4741-80cd-78c6fde573e6.png)
 
 ### The web application is hosted at : https://mehrose.xyz/apps/clock/
 
